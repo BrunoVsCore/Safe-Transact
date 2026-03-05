@@ -72,7 +72,3 @@ No app, faca upload de um `.csv` com as colunas esperadas para obter as previsoe
 - O modelo serializado pode gerar aviso se a versao do `scikit-learn` de treino e diferente da versao de execucao.
 - Para resultados mais consistentes em producao, mantenha a mesma versao usada no treinamento.
 
-
-
-## Autor
-Projeto desenvolvido por Bruno, 
