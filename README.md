@@ -1,5 +1,5 @@
 # Safe Transact 1.0 - Deteccao de Fraudes com Machine Learning
-
+<img align="center" alt="Instagram Demo" style="border-radius:100px;" src="demo.gif" />
 Projeto para deteccao de fraudes financeiras com Python, Scikit-learn e Streamlit. Voltado para instituições financeiras focado em seguranca digital e IA aplicada.
 
 ## Visao Geral
