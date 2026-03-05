@@ -1,0 +1,6 @@
+streamlit
+streamlit-option-menu
+pandas
+matplotlib
+joblib
+scikit-learn==1.6.1
